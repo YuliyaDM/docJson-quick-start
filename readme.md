@@ -1,0 +1,1 @@
+It is a readme of the index.js file.
